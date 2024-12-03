@@ -494,7 +494,7 @@ public class CalenderEvent extends LinearLayout implements View.OnClickListener 
                 day.setLayoutParams(new LinearLayout.LayoutParams(
                         ViewGroup.LayoutParams.MATCH_PARENT,
                         ViewGroup.LayoutParams.WRAP_CONTENT));
-                day.setTextSize((int) 16);
+                day.setTextSize((int) 19);
                 day.setSingleLine();
                 day.setPadding(10, 10, 10, 10);
                 day.setGravity(Gravity.CENTER);
